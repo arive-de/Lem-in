@@ -13,4 +13,4 @@ Usage :
 
 # Example
 
-![Map](~/42/git/Lem-in/map.png)
+![Map](/map.png)
