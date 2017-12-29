@@ -1,5 +1,9 @@
 # Lem-in
 
+> git clone https://github.com/arive-de/Lem-in.git
+> make
+> ./lem-in < good_test/map100
+
 Le but du projet est de trouver le moyen le plus rapide de faire traverser la fourmilière par n fourmis. 
 
 • Évidemment, il y a quelques contraintes. Pour arriver le premier, il faut prendre le chemin le plus court (et pas forcément pour autant le plus simple), ne pas marcher sur ses congénères, tout en évitant les embouteillages.
@@ -11,8 +15,3 @@ Le but du projet est de trouver le moyen le plus rapide de faire traverser la fo
 • Vous n’afficherez à chaque tour que les fourmis qui ont bougé.
 
 • À chaque tour vous pouvez déplacer chaque fourmi une seule fois et ce suivant un tube (la salle réceptrice doit être libre).
-
-
-Fonctions autorisées
-
-◦ exit ◦ read ◦ write ◦ malloc ◦ free ◦ perror ◦ strerror
