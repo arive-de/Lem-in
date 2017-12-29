@@ -1,5 +1,10 @@
 # Lem-in
 
+• The aim of the project is to find the shortest path beetween ##start and ##end for n ants.
+
+• Only one ant per room (but ##end).
+
+
 # Compiling
 
 Usage : 
