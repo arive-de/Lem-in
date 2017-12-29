@@ -13,4 +13,10 @@ Usage :
 
 # Example
 
+Map
+
 ![Map](/map.png)
+
+Run
+
+![Result](/result.png)
