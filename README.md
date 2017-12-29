@@ -1,8 +1,10 @@
 # Lem-in
 
-> git clone https://github.com/arive-de/Lem-in.git
-> make
-> ./lem-in < good_test/map100
+# Compiling
+
+Usage : 
+
+`make && ./lem_in < good_test/*`
 
 Le but du projet est de trouver le moyen le plus rapide de faire traverser la fourmilière par n fourmis. 
 
